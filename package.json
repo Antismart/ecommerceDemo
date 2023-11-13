@@ -1,0 +1,20 @@
+{
+  "name": "ecommercedemo",
+  "version": "1.0.0",
+  "description": "ecommerce app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "npm run server"
+
+  },
+  "author": "Moses Timbwa",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-passer": "^1.0.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.0"
+  }
+}
