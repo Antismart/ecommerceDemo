@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "npm run server"
-
+    "server": "node index.js"
   },
   "author": "Moses Timbwa",
   "license": "ISC",
